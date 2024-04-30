@@ -1,0 +1,72 @@
+.navbar {
+    background-color: #12b2c0;
+    color: white;
+}
+
+.bg-custom {
+    background-color: #12b2c0;
+    color: white;
+}
+
+.btn-custom {
+    font-size: 16px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 24px;
+}
+
+.btn-custom:hover {
+    border: 1px solid white;
+    text-decoration: underline;
+}
+
+.padding-logo {
+    padding: 100px;
+}
+
+.btn-custom-blue {
+    font-size: 16px;
+    color: #12b2c0;
+    border: 1px solid #12b2c0;
+    border-radius: 24px;
+}
+
+.btn-custom-blue:hover {
+    border: 1px solid #12b2c0;
+    color: #12b2c0;
+    text-decoration: underline;
+}
+
+.bg-blue-custom {
+    background-color: #f4fbfb;
+}
+
+.bg-blue-custom-2 {
+    background-color: #12b2c0;
+    color: #f4fbfb;
+}
+
+.headline {
+    color: #12b2c0;
+}
+
+.link-custom {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.link-custom:hover {
+    text-decoration: underline;
+}
+
+.btn-bulat {
+    background-color: transparent;
+    color: white;
+    border-radius: 50px;
+}
+
+.btn-bulat:hover {
+    color: white;
+}
